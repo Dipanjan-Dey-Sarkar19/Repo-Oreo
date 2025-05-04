@@ -50,14 +50,14 @@ footer {
     padding: 10px 0;
 }
 
-.gallery {
+gallery {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 15px;
 }
 
-.gallery img {
+gallery img {
     width: 200px;
     height: auto;
     border-radius: 8px;
