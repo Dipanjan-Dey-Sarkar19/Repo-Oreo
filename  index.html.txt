@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oreo’s House - Pet Care in Newtown, Kolkata</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Oreo’s House</h1>
+        <p>Trusted Pet Care in Newtown, Kolkata</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Dog Walking</li>
+            <li>Pet Boarding</li>
+            <li>Grooming & Bath</li>
+            <li>Veterinary Assistance</li>
+            <li>Pet Pick-up & Drop</li>
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>About Oreo’s House</h2>
+        <p>Oreo’s House is a loving home away from home for your pets. Based in Newtown, Kolkata, we offer personalized care to make sure your furry friends are happy, healthy, and safe.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:contact@oreoshouse.in">contact@oreoshouse.in</a></p>
+        <p>Phone: +91 98765 43210</p>
+        <p>Address: Street No. 123, Newtown, Kolkata, West Bengal</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Oreo’s House. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
